@@ -5,9 +5,9 @@
 <h1 align="center">Hello World!👋, I'm Wayne Kathanzu</h1>
 <h3 align="center">Junior Software Developer</h3>
 
-- 🔭 I’m currently working on **a cross-platform school news app**
+- 🔭 I’m currently working on **an agriculture services app**
 
-- 🌱 I’m currently learning **new concepts in React and React native**
+- 🌱 I’m currently learning **new concepts in Flutter and React native**
 
 - 👯 I’m looking to collaborate on **Mobile/ Web App development**
 
