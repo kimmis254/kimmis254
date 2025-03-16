@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemp6bnVqem14aGJyMHN2NG43Zmswa3JsYXh3bHFqZ3VsZjRhOW91eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="400" height="400"/>
 </div>
 <h1 align="center">Hello World!👋, I'm Wayne Kathanzu</h1>
-<h3 align="center">Junior Software Developer</h3>
+  <h3 align="center">Mobile App Developer</h3>
 
 - 🔭 I’m currently working on **delivery app**
 
