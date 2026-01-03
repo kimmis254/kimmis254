@@ -5,11 +5,11 @@
 <h1 align="center">Hello World!👋, I'm Wayne Kathanzu</h1>
   <h3 align="center">Web/ Mobile App Developer</h3>
 
-- 🔭 I’m currently working on **delivery app**
+- 🔭 I’m currently working on **farmer marketplace app**
 
 - 🌱 I’m currently learning **new concepts in Flutter**
 
-- 👯 I’m looking to collaborate on **Mobile App development**
+- 👯 I’m looking to collaborate on **Mobile App and Web development**
 
 - 📫 How to reach me **kathanzuwayne2@gmail.com**
 
